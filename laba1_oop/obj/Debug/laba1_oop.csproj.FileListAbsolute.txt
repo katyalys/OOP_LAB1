@@ -1,0 +1,10 @@
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.Form1.resources
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.Properties.Resources.resources
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.csproj.GenerateResource.cache
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\bin\Debug\laba1_oop.exe.config
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\bin\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\bin\Debug\laba1_oop.pdb
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.pdb
